@@ -30,7 +30,7 @@ Voici les outils et technologies que j'ai pu utiliser :
 ## Projets Phares
 
 | Projet | Description |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | 
 | **prendtonsnap** | c'est un jeu de memes multijoueur style Snapchat |
 | **Sokoban** | c'est un jeux sur terminal en poussant une boîte sur la croix |
 
