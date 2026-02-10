@@ -8,42 +8,33 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
-Je suis un développeur passionné par la création d'applications web complètes, de l'architecture backend à l'expérience utilisateur frontend. J'aime résoudre des problèmes complexes et apprendre de nouvelles technologies.
-
-- 🔭 Je travaille actuellement sur **[Nom du projet ou "des projets SaaS"]**
-- 🌱 J'apprends actuellement **[Techno, ex: Rust, GraphQL, AWS]**
-- 👯 Je cherche à collaborer sur **[Type de projets open source]**
-- 💬 Demande-moi n'importe quoi sur **[Tes expertises, ex: React, Node.js, Architecture]**
-- ⚡ Fun fact : **[Une info drôle ou un hobby, ex: Je suis imbattable à Mario Kart]**
+Je suis un développeur intérésser et curieux pour la création d'applications web complètes, de l'architecture backend à l'expérience utilisateur frontend. 
 
 ---
 
 ## 🛠️ Ma Stack Technique
 
-Voici les outils et technologies que j'utilise au quotidien :
+Voici les outils et technologies que j'ai pu utiliser :
 
 | Catégorie | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux |
-| **Backend** | Node.js, Express, NestJS, Python (Django/FastAPI) |
+| **Frontend** | JS, HTML/CSS  |
+| **Backend** | PHP, C |
 | **Base de données** | SQL|
-| **DevOps & Outils** | Docker, AWS, CI/CD (GitHub Actions), Git, Linux |
+| **DevOps & Outils** | Docker, Git |
 
 ---
 
-## 📂 Projets Phares
+## Projets Phares
 
-| Projet | Description | Stack | Lien |
+| Projet | Description
 | :--- | :--- | :--- | :--- |
-| **[Nom Projet 1]** | Une application e-commerce complète avec dashboard admin. | `Next.js` `Stripe` `PostgreSQL` | [Code](lien) / [Demo](lien) |
-| **[Nom Projet 2]** | API RESTful pour la gestion de tâches en temps réel. | `Node.js` `Socket.io` `Redis` | [Code](lien) / [Demo](lien) |
-| **[Nom Projet 3]** | Clone de [App connue] pour pratiquer l'architecture microservices. | `Docker` `Golang` `React` | [Code](lien) |
+| **prendtonsnap** | c'est un jeu de memes multijoueur style Snapchat 
+| **Sokoban** | c'est un jeux sur terminal en poussant une boîte sur la croix 
 
 ---
-
-## 📊 Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
