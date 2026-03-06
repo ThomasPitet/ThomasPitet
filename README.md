@@ -23,7 +23,7 @@ Voici les outils et technologies que j'ai pu utiliser :
 | **Frontend** | JS, HTML/CSS, KOTLIN  |
 | **Backend** | PHP, C, C++, JAVA |
 | **Base de données** | MYSQL|
-| **DevOps & Outils** | Docker, Git, linux (raspberry) |
+| **DevOps & Outils** | Docker, Git, linux (raspberry), Vite |
 
 ---
 
