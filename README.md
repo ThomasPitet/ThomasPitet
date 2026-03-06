@@ -21,7 +21,7 @@ Voici les outils et technologies que j'ai pu utiliser :
 | Catégorie | Technologies |
 | :--- | :--- |
 | **Frontend** | JS, HTML/CSS, KOTLIN  |
-| **Backend** | PHP, C, C++ |
+| **Backend** | PHP, C, C++, JAVA |
 | **Base de données** | MYSQL|
 | **DevOps & Outils** | Docker, Git, linux (raspberry) |
 
