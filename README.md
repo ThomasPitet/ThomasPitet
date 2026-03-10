@@ -2,8 +2,8 @@
 <h3 align="center">Développeur Fullstack </h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/thomas-pitet-pro/]">LinkedIn</a> •
-  <a href="mailto:[thomaspitet.pro@gmail.com]">Email</a>
+  <a href="https://www.linkedin.com/in/thomas-pitet-pro/">LinkedIn</a> •
+  <a href="mailto:thomaspitet.pro@gmail.com">Email</a>
 </p>
 
 ---
@@ -29,10 +29,10 @@ Voici les outils et technologies que j'ai pu utiliser :
 
 ## Projets Phares
 
-| Projet | Description |
-| :--- | :--- | 
-| **prendtonsnap** | c'est un jeu de memes multijoueur style Snapchat |
-| **Sokoban** | c'est un jeux sur terminal en poussant une boîte sur la croix |
+| Projet | Description | Lien |
+| :--- | :--- | :--- |
+| **prendtonsnap** | c'est un jeu de memes multijoueur style Snapchat | [Voir le repo](https://github.com/C4ptainF0xy/prendtonsnap) |
+| **Sokoban** | c'est un jeux sur terminal en poussant une boîte sur la croix | [Voir le repo](https://github.com/ThomasPitet/cours/tree/main/C/petit_projet/sokoban) |
 
 ---
 
