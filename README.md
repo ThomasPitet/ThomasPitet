@@ -31,9 +31,9 @@ Voici les outils et technologies que j'ai pu utiliser :
 
 | Projet | Description | Lien |
 | :--- | :--- | :--- |
-| **portfolio** | La présentation de mon portfolio | [Voir le repo](https://github.com/ThomasPitet/cours/tree/main/projet/portfolio) |
+| **Projet Entreprise** | Une App-Web pour la gestion des commande | [Voir le repo](https://github.com/NathanCBT/Corso-Fleuri) |
 | **prendtonsnap** | c'est un jeu de memes multijoueur style Snapchat | [Voir le repo](https://github.com/C4ptainF0xy/prendtonsnap) |
-| **Sokoban** | c'est un jeux sur terminal en poussant une boîte sur la croix | [Voir le repo](https://github.com/ThomasPitet/cours/tree/main/C/petit_projet/sokoban) |
+| **portfolio** | La présentation de mon portfolio | [Voir le repo](https://github.com/ThomasPitet/cours/tree/main/projet/portfolio)|
 
 ---
 
