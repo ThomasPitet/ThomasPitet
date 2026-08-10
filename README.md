@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thomas-pitet-pro/">LinkedIn</a> •
   <a href="mailto:thomaspitet.pro@gmail.com">Email</a>
+  <a href="//thomaspitet.github.io/Portfolio-Pro/">Portfolio</a>
 </p>
 
 ---
